@@ -1,0 +1,2 @@
+/dir2/dir3/emtpy-file.txt
+/dir2/file3.txt

@@ -1,0 +1,3 @@
+# Line endings for text files used for testing should not be modified.
+# Otherwise tests on windows fail, because of different file lenght.
+test/*.txt binary
