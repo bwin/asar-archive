@@ -63,13 +63,13 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 
-[badgeNpm]: https://img.shields.io/npm/v/asar-archive/master.svg?style=flat-square
+[badgeNpm]: https://img.shields.io/npm/v/asar-archive.svg?style=flat-square
 [badgeLicense]: https://img.shields.io/npm/l/asar-archive.svg?style=flat-square
 [badgeDownloads]: https://img.shields.io/npm/dt/asar-archive.svg?style=flat-square
 [badgedDependencies]: https://img.shields.io/david/bwin/asar-archive/master.svg?style=flat-square
 [badgeCoverage]: https://img.shields.io/coveralls/bwin/asar-archive/master.svg?style=flat-square
 [badgeBuild]: https://img.shields.io/travis/bwin/asar-archive/master.svg?style=flat-square
-[linkNpm]: https://npmjs.org/package/asar-archive/master
+[linkNpm]: https://npmjs.org/package/asar-archive
 [linkDependencies]: https://david-dm.org/bwin/asar-archive/master
 [linkCoverage]: https://coveralls.io/bwin/asar-archive/master
 [linkBuild]: https://travis-ci.org/bwin/asar-archive/master
